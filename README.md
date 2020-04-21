@@ -1,8 +1,3 @@
-A game design document is the blueprint from which a game is to be built.  
-(this should be deleted from your final document) 
-
-Bullet points are acceptable on here
- 
 1.     Title Page  
 What it needs: Game Name – Perhaps also add a subtitle (Anything in blue is NOT REQUIRED) 
 			Gem Trivia? 
