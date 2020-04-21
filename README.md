@@ -1,3 +1,5 @@
+You can edit your readme file directly here.
+
 # comp-sci- ![Build status badge](https://github.com/amelia-skawinski/comp-sci-/workflows/MakeCode/badge.svg)
 
 
